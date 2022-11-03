@@ -9,6 +9,6 @@ spring:
 #registrationgetemail: http://localhost:8185/customer/getemail/
 #notification: http://localhost:8082/notification/sendMail/
 
-registrationfindcustomer: http://registration-servicee/customer/findcustomer/
-registrationgetemail: http://registration-servicee/customer/getemail/
+registrationfindcustomer: http://registration-service/customer/findcustomer/
+registrationgetemail: http://registration-service/customer/getemail/
 notification: http://notification-service/notification/sendMail/  
