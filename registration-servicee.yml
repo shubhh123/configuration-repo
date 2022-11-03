@@ -3,4 +3,4 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     password: ${DB_PASSWORD:root}
     url: ${JDBC_URL:jdbc:mariadb://localhost:3306/loginsystemdb}
-    username: ${DB_USERNAME:root}
+    username: ${DB_USER:root}
